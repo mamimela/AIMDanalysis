@@ -28,3 +28,5 @@ dependencies:
   - mdanalysis
   - mdanalysistests
   - pyscal
+  - pip:
+    - ase 
