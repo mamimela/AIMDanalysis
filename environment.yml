@@ -1,0 +1,34 @@
+name: mdanalysis_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tidynamics[version='>=1.0.0']
+  - gsd
+  - biopython
+  - numpy[version='>=1.17.3']
+  - pytest
+  - mock
+  - networkx
+  - hypothesis
+  - psutil
+  - matplotlib
+  - seaborn[version='>=0.7.0,<0.9']
+  - scipy
+  - tqdm[version='>=4.43.0']
+  - mmtf-python
+  - joblib[version='>=0.12']
+  - sphinx==1.8.5
+  - chemfiles
+  - scikit-learn
+  - cython
+  - codecov
+  - clustalw==2.1
+  - griddataformats
+  - netcdf4
+  - parmed
+  - gcc
+  - mdanalysis
+  - mdanalysistests
+  - jupyterlab
+  - pyscal
