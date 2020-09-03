@@ -5,4 +5,4 @@ The tools are based on various python packages such as MDanalysis, Pyscal, and A
 
 To avoid installing these different packages, the project is linked with Binder to set a nice virtual environment.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mamimela/AIMDanalysis/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mamimela/AIMDanalysis/master)
