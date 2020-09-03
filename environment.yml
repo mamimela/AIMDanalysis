@@ -29,4 +29,4 @@ dependencies:
   - mdanalysistests
   - pyscal
   - pip:
-    - ase 
+    - ase
